@@ -38,7 +38,7 @@ body {
 .card {
   width:50px;
   padding-top:10px;
-  margin-bottom:5px;
+  padding-bottom:5px;
   margin:5px;
   background-color: #555252;
   border-radius: 10px;
